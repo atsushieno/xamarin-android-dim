@@ -1,7 +1,7 @@
 <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
 
   <PropertyGroup>
-    <TargetFrameworkRootPath Condition="'$(TargetFrameworkRootPath)'==''">$(MSBuildThisFileDirectory)..\lib/xamarin.android/xbuild-frameworks/MonoAndroid/</TargetFrameworkRootPath>
+    <TargetFrameworkRootPath Condition="'$(TargetFrameworkRootPath)'==''">$(MSBuildThisFileDirectory)..\lib/xamarin.android/xbuild-frameworks/</TargetFrameworkRootPath>
   </PropertyGroup>
 
 </Project>
