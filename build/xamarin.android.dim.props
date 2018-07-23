@@ -1,0 +1,8 @@
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+
+  <PropertyGroup>
+    <AndroidAdditionalFrameworkDirectories Condition="'$(AndroidAdditionalFrameworkDirectories)' == ''>$(MSBuildThisFileDirectory)..\lib/xamarin.android/xbuild-frameworks/MonoAndroid/v9.0/</AndroidAdditionalFrameworkDirectories>
+  </PropertyGroup>
+
+</Project>
+

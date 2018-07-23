@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>xamarin.android.dim</id>
+    <version>0.1.0</version>
+    <authors>atsushieno</authors>
+    <owners>atsushieno</owners>
+    <licenseUrl>http://github.com/atsushieno/xamarin-android-dim/tree/master/LICENSE</licenseUrl>
+    <projectUrl>http://github.com/atsushieno/xamarin-android-dim</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Xamarin.Android API Level 28 framework built with C# 8.0 default interface methods</description>
+    <releaseNotes>See github commits</releaseNotes>
+    <copyright>Copyright 2018 Xamarin.Android contributors</copyright>
+    <tags>Xamarin Android C#</tags>
+    <dependencies>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="_._" target="lib/monoandroid10/" />
+    <file src="build/xamarin.android.dim.props" target="build" />
+    <file src="build/xamarin.android.dim.targets" target="build" />
+    <file src="lib/**/*" target="lib" />
+  </files>
+</package>
