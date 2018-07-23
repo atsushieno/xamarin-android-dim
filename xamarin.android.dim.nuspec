@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>xamarin.android.dim</id>
-    <version>0.1.2</version>
+    <version>0.1.3</version>
     <authors>atsushieno</authors>
     <owners>atsushieno</owners>
     <licenseUrl>http://github.com/atsushieno/xamarin-android-dim/tree/master/LICENSE</licenseUrl>
